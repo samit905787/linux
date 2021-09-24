@@ -6,3 +6,4 @@ wellcome to linux computer
 java
 c
 c+
+python

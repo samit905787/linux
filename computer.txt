@@ -7,12 +7,14 @@ java
 c
 c+
 python
-
+sql 
+http
 
 
 
 
 thanku
 
+done my changes
 
 file copy
